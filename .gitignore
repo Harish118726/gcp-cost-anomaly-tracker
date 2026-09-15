@@ -1,1 +1,15 @@
-
+# OS Metadata & Temp Files
+.DS_Store
+Thumbs.db
+# Python Caches & Environments
+_pycache
+* рус
+* .pyo
+*.pyd
+.venv/
+env/
+venv/
+# Excel Temporary Auto-Save Locks
+~$*.xlsx
+# Local Output Data Caches
+data/processed/
